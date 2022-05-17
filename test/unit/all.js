@@ -1,0 +1,2 @@
+require('./hashvault')
+require('./simplevault')
